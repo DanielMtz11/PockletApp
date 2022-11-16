@@ -13,6 +13,9 @@ const Work = ({id, text}) => {
             case 4:
                 return("bi-4-circle");
             
+            default:
+                return "";
+            
         }
     }
 
@@ -26,6 +29,9 @@ const Work = ({id, text}) => {
                 return "bi-building";
             case 4:
                 return " bi-currency-dollar";
+                
+            default:
+                return "";
         }
         
     }
