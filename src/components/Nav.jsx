@@ -14,7 +14,7 @@ const Nav = () => {
                 <div className="nav_menu" id="nav-menu">
                     <ul className="nav_list">
                         <li className="nav_item">
-                            <a href="#" className="nav_link">Home</a>
+                            <a href="https://carlosvargasart.com/Joss/PockeletFigma/image/logo.png" className="nav_link">Home</a>
                         </li>
                         <li className="nav_item">
                             <a href="html/investing.html" className="nav_link">start investing</a>
